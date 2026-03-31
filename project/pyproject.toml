@@ -1,0 +1,13 @@
+[project]
+name = "support-env"
+version = "0.1.0"
+description = "Customer support OpenEnv environment"
+authors = [
+    { name = "Sammi" }
+]
+
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "numpy"
+]
